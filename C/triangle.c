@@ -15,6 +15,4 @@ int main()
     {
         printf("It is not a Triangle . ");
     }
-    
-    
 }

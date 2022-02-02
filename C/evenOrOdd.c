@@ -15,6 +15,4 @@ int main()
     {
         printf("The number you have entered is a odd number .  ");
     }
-    
-    
 }

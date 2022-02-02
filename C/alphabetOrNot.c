@@ -15,7 +15,4 @@ int main()
     {
         printf("%c is not an alphabet" , alpha);
     }
-    
-    
-
 }
